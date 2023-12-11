@@ -1,0 +1,15 @@
+C:\Users\kauli\Enem\Enem-na-pratica\bin\Debug\net6.0\Enem-na-pratica.exe
+C:\Users\kauli\Enem\Enem-na-pratica\bin\Debug\net6.0\Enem-na-pratica.deps.json
+C:\Users\kauli\Enem\Enem-na-pratica\bin\Debug\net6.0\Enem-na-pratica.runtimeconfig.json
+C:\Users\kauli\Enem\Enem-na-pratica\bin\Debug\net6.0\Enem-na-pratica.dll
+C:\Users\kauli\Enem\Enem-na-pratica\bin\Debug\net6.0\Enem-na-pratica.pdb
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.csproj.AssemblyReference.cache
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.AssemblyInfoInputs.cache
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.AssemblyInfo.cs
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.csproj.CoreCompileInputs.cache
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.dll
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\refint\Enem-na-pratica.dll
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.pdb
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\Enem-na-pratica.genruntimeconfig.cache
+C:\Users\kauli\Enem\Enem-na-pratica\obj\Debug\net6.0\ref\Enem-na-pratica.dll
